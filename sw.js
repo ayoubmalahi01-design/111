@@ -1,4 +1,4 @@
-const C='ss6';
+const C = 'ss6';
 self.addEventListener('install', e => {
   self.skipWaiting();
   e.waitUntil(
