@@ -1,10 +1,8 @@
 /**
  * Sport Performance — إعداد الاتصال بـ Supabase
- * ضع هنا Publishable key أو anon key فقط. لا تضع service_role أو كلمة مرور قاعدة البيانات.
- * يمكن أيضاً ضبط القيمتين كمتغيرات VITE_ في إعدادات Cloudflare Pages.
  */
 const CFG = {
-  url: 'https://xbjthetphqxdhwufkmly.supabase.co',
-  key: 'YOUR_SUPABASE_PUBLISHABLE_KEY'
+  url: 'https://dnauaplmyccplqxfjzur.supabase.co',
+  key: 'sb_publishable_arzmXXj8NJ_rCaz0VRdVVw__Lk0gtel'
 };
 export default CFG;
